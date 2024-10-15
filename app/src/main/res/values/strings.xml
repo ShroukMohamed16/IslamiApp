@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">IslamiAppRoute</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <array name="azkar">
+        <item>سبحان الله</item>
+        <item>الحمد الله</item>
+        <item>الله اكبر</item>
+        <item>لا اله الا الله</item>
+    </array>
+</resources>
